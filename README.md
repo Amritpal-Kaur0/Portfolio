@@ -10,7 +10,10 @@ The portfolio website that I have created is a digital platform that showcases m
 ## URL of Deployed Application -
 
 
-## Screenshot of Portfolio
+## Preview of Portfolio 
+
+
+![Portfolio](https://github.com/Amritpal-Kaur0/Portfolio/assets/128442182/833b9671-7ece-4ca9-9dce-a0d33369c222)
 
 
 ## Support 
